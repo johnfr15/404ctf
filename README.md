@@ -9,34 +9,34 @@
     <br />
     <h1>404 CTF - Édition 2024</h1>
     <p>
-        Ce dépôt contient tout mes <i>write-ups sur</i> les challenges résolu lors de ce CTF
+        Ce dépôt contient tous mes <i>write-ups<i> sur les challenges résolus lors de ce CTF.
     </p>
 </div>
 
 <br />
 <br />
 
-## Catégories
+## Challenges
 
-- 🐈‍⬛ Algorithmique quantique - *Quantum computing*
-- 🔐 Cryptanalyse - *Cryptanalysis*
-- ☎️ Divers - *Miscellaneous*
-- ⚙️ Exploitation de binaires - *Binary exploitation* (Pwn)
-- 🧠 Intelligence artificielle - *Artificial intelligence* (AI)
-- 🔎 Investigation numérique - *Digital forensics*
-- 🌎 Renseignement en sources ouvertes - *Open source intelligence* (OSINT)
-- 🔧 Rétro-Ingénierie - *Reverse Engineering*
-- 📟 Sécurité materielle - *Hardware*
-- ❓ Stéganographie - *Steganography*
-- 🌐 Web
+- 🐈‍⬛ **Algorithmique quantique** - *Quantum computing*  
+- 🔐 **Cryptanalyse** - *Cryptanalysis*  
+- ☎️ **Divers** - *Miscellaneous*
+    - [De la friture sur la ligne](./Divers/De%20la%20friture%20sur%20la%20ligne/README.md)
+- ⚙️ **Exploitation de binaires** - *Binary exploitation* (Pwn)  
+- 🧠 **Intelligence artificielle** - *Artificial intelligence* (AI)  
+- 🔎 **Investigation numérique** - *Digital forensics*  
+- 🌎 **Renseignement en sources ouvertes** - *Open source intelligence* (OSINT)  
+- 🔧 **Rétro-Ingénierie** - *Reverse Engineering*  
+- 📟 **Sécurité materielle** - *Hardware*  
+- ❓ **Stéganographie** - *Steganography*  
+- 🌐 **Web**  
 
 <br />
 <br />
 
 [![player](img/player.png)](https://ctf.404ctf.fr/users/1779)
-<div align="center">
-    <img src="img/pwned.png" alt="logo" width="60%" height="60%">
-</div>
+![pwned](img/pwned.png)
+![categories](img/categories.png)
 
 <br />
 <br />
